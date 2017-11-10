@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5C01-0778
+
+ Directory of C:\Users\SARASIJ JANA\Desktop\my
+
+10-11-2017  21:42    <DIR>          .
+10-11-2017  21:42    <DIR>          ..
+10-11-2017  21:42                 0 teer.txt
+10-11-2017  21:35                34 test2.html
+10-11-2017  21:20               340 text1.txt
+               3 File(s)            374 bytes
+               2 Dir(s)  350,068,133,888 bytes free
